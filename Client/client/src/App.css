@@ -1,0 +1,22 @@
+.pad{
+  padding-top: 20%;
+  /* margin-top: 10px; */
+  padding-bottom: 15%;
+}
+
+.background {
+  background-image: url("./assets/Image/titlee.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #f8f9fa; /* Fallback background color */
+
+}
+
+.detial-background{
+  background-image: url("./assets/Image/detialbackground.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #f8f9fa; 
+}
